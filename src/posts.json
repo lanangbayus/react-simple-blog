@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Tutorial belajar reactjs lengkap",
+    "tags": ["reactjs", "frontend", "tutorial"],
+    "date": "2022-11-10",
+    "isNew": true
+  },
+  {
+    "title": "Meningkatkan performa reactjs dengan tailwindcss",
+    "tags": ["reactjs", "frontend", "tutorial"],
+    "date": "2022-11-11",
+    "isNew": false
+  },
+  {
+    "title": "Cara menggunakan tailwindcss di reactjs",
+    "tags": ["reactjs", "frontend", "tutorial"],
+    "date": "2022-11-13",
+    "isNew": false
+  }
+]
